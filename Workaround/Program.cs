@@ -58,8 +58,8 @@ namespace Workaround
             PttManager pttManager = new PttManager(new PersonManager());
             pttManager.GiveMask(person1);
 
-
-        }
+            PharmacyManager pharmacyManager = new PharmacyManager(new PersonManager());
+            pharmacyManager.GiveMask(person1);
 
         static void SelamVer(string isim = "isimsiz")
         {
