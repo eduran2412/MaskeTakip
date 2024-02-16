@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workaround", "Workaround\Workaround.csproj", "{240F6477-D67D-4465-A11A-405C3DC2D5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{9817FF6C-DC74-46CE-9434-FAEEED258007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{BAC4BC4D-03DB-43B4-A45F-543062F69E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240F6477-D67D-4465-A11A-405C3DC2D5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240F6477-D67D-4465-A11A-405C3DC2D5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240F6477-D67D-4465-A11A-405C3DC2D5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240F6477-D67D-4465-A11A-405C3DC2D5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9817FF6C-DC74-46CE-9434-FAEEED258007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9817FF6C-DC74-46CE-9434-FAEEED258007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9817FF6C-DC74-46CE-9434-FAEEED258007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9817FF6C-DC74-46CE-9434-FAEEED258007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC4BC4D-03DB-43B4-A45F-543062F69E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC4BC4D-03DB-43B4-A45F-543062F69E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC4BC4D-03DB-43B4-A45F-543062F69E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC4BC4D-03DB-43B4-A45F-543062F69E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC99A11-960E-4209-8B0E-DEF2807FF425}
+	EndGlobalSection
+EndGlobal
